@@ -1,4 +1,4 @@
-# Final Project Data-Management-Final-Project
+# Data Science Final Project 
 
 Please upload pcos_diagnosis(2).ipynb in Jupyter notebook. All packages and XGBoost should be installed upon running the cells. The csv files in this repository was the data produced upon my run. The data produced when you run it may be different then the csv files generated but is functionally the same. 
 
